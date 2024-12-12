@@ -25,6 +25,9 @@ Welcome to my GitHub profile! I'm passionate about coding and learning new techn
 - DevOps
 
 ## 📬 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourhandle/)
+[![Twitter](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
+
 - [LinkedIn](https://www.linkedin.com/in/umair-borkar/)
 - [Portfolio](https://your-portfolio.com)
 
