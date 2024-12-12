@@ -9,6 +9,9 @@ Welcome to my GitHub profile! I'm passionate about coding and learning new techn
 - **Tools & Platforms**: Git, GitHub, Docker, AWS, IntelliJ IDEA
 - **Databases**: MySQL, MongoDB
 
+  ![Open Source](https://img.shields.io/badge/Open%20Source-Love-green)
+
+
 ## 📊 GitHub Stats
 ![Umair Borkar GitHub Stats](https://github-readme-stats.vercel.app/api?username=uborkar&show_icons=true&count_private=true&hide=prs&theme=radical)
 <!--[Umair Borkar Github Statss](https://github-readme-stats.vercel.app/api?username=uborkar&repo=github-readme-stats&cache_seconds=86400&theme=ambient_gradient)-->
