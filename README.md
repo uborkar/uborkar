@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Hey, I'm [Umair Mazhar Borkar] 👋
+# Hey, I'm *Umair Mazhar Borkar* 👋
 
 Welcome to my GitHub profile! I'm passionate about coding and learning new technologies. Currently focusing on Java development during my internship at Codsoft. Below you'll find details about my skills, interests, and notable projects.
 
