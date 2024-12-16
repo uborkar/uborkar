@@ -22,6 +22,7 @@ Welcome to my GitHub profile! I'm passionate about coding and learning new techn
 ## 🌱 Currently Learning
 - Java Advanced Topics
 - Cloud Computing (AWS)
+- Data Science/Analysis
 - DevOps
 
 ## 📬 Let's Connect!
