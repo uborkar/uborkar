@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm passionate about coding and learning new techn
 <!--[Umair Borkar Github Statss](https://github-readme-stats.vercel.app/api?username=uborkar&repo=github-readme-stats&cache_seconds=86400&theme=ambient_gradient)-->
 ## 📌 Notable Projects
 - [**Codsoft-Internship**](https://github.com/uborkar/Codsoft-Internship): A repository for tasks and projects from my internship at Codsoft, focusing on Java programming.
-- [**Project 2**](https://github.com/uborkar/project2): A full-stack application built with React and Spring Boot.
+- [**Data-Science-Projecr**](https://github.com/uborkar/Data-Science-Projects): A repository for Data Analysis and cleaning data using Python libraries like Pandasand more...
 
 ## 🌱 Currently Learning
 - Java Advanced Topics
