@@ -9,6 +9,8 @@ Welcome to my GitHub profile! I'm passionate about coding and learning new techn
 - **Tools & Platforms**: Git, GitHub, Docker, AWS, IntelliJ IDEA
 - **Databases**: MySQL, MongoDB
 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/UmairBorkar_004) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/mr.umair_004/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umair-borkar/)) [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/28735017/umair-borkar/)
+
   ![Open Source](https://img.shields.io/badge/Open%20Source-Love-green)
 
 
