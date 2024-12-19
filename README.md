@@ -16,10 +16,12 @@ Welcome to my GitHub profile! I'm passionate about coding and learning new techn
 
 ## 📊 GitHub Stats
 ![Umair Borkar GitHub Stats](https://github-readme-stats.vercel.app/api?username=uborkar&show_icons=true&count_private=true&hide=prs&theme=radical)
-<!--[Umair Borkar Github Statss](https://github-readme-stats.vercel.app/api?username=uborkar&repo=github-readme-stats&cache_seconds=86400&theme=ambient_gradient)-->
+<!--[Umair Borkar Github Statss](https://github-readme-stats.vercel.app/api?username=uborkar&repo=github-readme-stats&cache_seconds=86400&theme=ambient_gradient)
+[![GitHub Streak](https://streak-stats.demolab.com?user=uborkar&theme=dark&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+-->
 # Welcome to My GitHub Profile! 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=uborkar&theme=dark&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+![uborkar streak](https://streak-stats.demolab.com/?user=uborkar&theme=highcontrast&hide_border=false)
 
 I am passionate about coding and exploring new technologies. Check out my repositories to see what I’ve been working on!
 
