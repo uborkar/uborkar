@@ -36,6 +36,12 @@ I am passionate about coding and exploring new technologies. Check out my reposi
 - Data Science/Analysis
 - DevOps
 
+### 🛠️ My Tech Stack:
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=uborkar&color=blueviolet)
+
 ## 📬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/umair-borkar/)
 [![Twitter](https://img.shields.io/twitter/follow/UmairBorkar_004?style=social)](https://x.com/UmairBorkar_004)
