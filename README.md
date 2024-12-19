@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm passionate about coding and learning new techn
 [![GitHub Streak](https://streak-stats.demolab.com?user=uborkar&theme=dark&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 -->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uborkar&layout=compact&theme=radical)](https://github.com/uborkar)
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=uborkar&theme=react-dark)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
