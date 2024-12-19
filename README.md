@@ -16,9 +16,6 @@ Welcome to my GitHub profile! I'm passionate about coding and learning new techn
 
 ## 📊 GitHub Stats
 ![Umair Borkar GitHub Stats](https://github-readme-stats.vercel.app/api?username=uborkar&show_icons=true&count_private=true&hide=prs&theme=radical)
-<!--[Umair Borkar Github Statss](https://github-readme-stats.vercel.app/api?username=uborkar&repo=github-readme-stats&cache_seconds=86400&theme=ambient_gradient)
-[![GitHub Streak](https://streak-stats.demolab.com?user=uborkar&theme=dark&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
--->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uborkar&layout=compact&theme=radical)](https://github.com/uborkar)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=uborkar&theme=react-dark)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -27,10 +24,11 @@ Welcome to my GitHub profile! I'm passionate about coding and learning new techn
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=uborkar&theme=onedark)](https://github.com/uborkar)
-[**uborkar streak**](https://streak-stats.demolab.com/?user=uborkar&theme=highcontrast&hide_border=false)
 
 I am passionate about coding and exploring new technologies. Check out my repositories to see what I’ve been working on!
-
+<!--[Umair Borkar Github Statss](https://github-readme-stats.vercel.app/api?username=uborkar&repo=github-readme-stats&cache_seconds=86400&theme=ambient_gradient)
+[![GitHub Streak](https://streak-stats.demolab.com?user=uborkar&theme=dark&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+-->
 ## 📌 Notable Projects
 - [**Codsoft-Internship**](https://github.com/uborkar/Codsoft-Internship): A repository for tasks and projects from my internship at Codsoft, focusing on Java programming.
 - [**Data-Science-Projecr**](https://github.com/uborkar/Data-Science-Projects): A repository for Data Analysis and cleaning data using Python libraries like Pandasand more...
