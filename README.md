@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm passionate about coding and learning new techn
 -->
 # Welcome to My GitHub Profile! 👋
 
-![uborkar streak](https://streak-stats.demolab.com/?user=uborkar&theme=highcontrast&hide_border=false)
+```![uborkar streak](https://streak-stats.demolab.com/?user=uborkar&theme=highcontrast&hide_border=false)```
 
 I am passionate about coding and exploring new technologies. Check out my repositories to see what I’ve been working on!
 
