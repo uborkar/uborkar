@@ -31,7 +31,7 @@ I am passionate about coding and exploring new technologies. Check out my reposi
 -->
 ## 📌 Notable Projects
 - [**Codsoft-Internship**](https://github.com/uborkar/Codsoft-Internship): A repository for tasks and projects from my internship at Codsoft, focusing on Java programming.
-- [**Data-Science-Projecr**](https://github.com/uborkar/Data-Science-Projects): A repository for Data Analysis and cleaning data using Python libraries like Pandasand more...
+- [**Data-Science-Project**](https://github.com/uborkar/Data-Science-Projects): A repository for Data Analysis and cleaning data using Python libraries like Pandasand more...
 
 ## 🌱 Currently Learning
 - Java Advanced Topics
