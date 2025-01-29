@@ -50,6 +50,5 @@ I am passionate about coding and exploring new technologies. Check out my reposi
 [![Twitter](https://img.shields.io/twitter/follow/UmairBorkar_004?style=social)](https://x.com/UmairBorkar_004)
 
 ---
-
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaborations in mind!
 
