@@ -3,10 +3,10 @@
 
 Welcome to my GitHub profile! I'm passionate about coding and learning new technologies. Currently focusing on Java development during my internship at Codsoft. Below you'll find details about my skills, interests, and notable projects.Pursuing MCA (Masters in Computer Application) from D.Y. Patil Agricultural and Technical University, Talsande, Kolhapur. Passionate about TrendingTech Skills. 
 
-## 🚀 Skills & Technologies
-- **Languages**: Java, Python, JavaScript, MySQL
-- **Frameworks**: Spring Boot, React
-- **Tools & Platforms**: Git, GitHub, Docker, AWS, IntelliJ IDEA
+## 🚀 Skills & Technologies which i am lerning 
+- **Languages**:Python, JavaScript, MySQL
+- **Frameworks**: React
+- **Tools & Platforms**: Git, GitHub.
 - **Databases**: MySQL, MongoDB
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/UmairBorkar_004) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/mr.umair_004/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umair-borkar/) [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/28735017/umair-borkar/)
@@ -29,18 +29,14 @@ I am passionate about coding and exploring new technologies. Check out my reposi
 <!--[Umair Borkar Github Statss](https://github-readme-stats.vercel.app/api?username=uborkar&repo=github-readme-stats&cache_seconds=86400&theme=ambient_gradient)
 [![GitHub Streak](https://streak-stats.demolab.com?user=uborkar&theme=dark&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 -->
-## 📌 Notable Projects
-- [**Codsoft-Internship**](https://github.com/uborkar/Codsoft-Internship): A repository for tasks and projects from my internship at Codsoft, focusing on Java programming.
-- [**Data-Science-Project**](https://github.com/uborkar/Data-Science-Projects): A repository for Data Analysis and cleaning data using Python libraries like Pandasand more...
 
 ## 🌱 Currently Learning
-- Java Advanced Topics
+- Python
 - Cloud Computing (AWS)
 - Data Science/Analysis
 - DevOps
 
 ### 🛠️ My Tech Stack:
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=uborkar&color=blueviolet)
