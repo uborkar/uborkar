@@ -4,8 +4,8 @@
 Welcome to my GitHub profile! I'm passionate about coding and learning new technologies. Currently focusing on Java development during my internship at Codsoft. Below you'll find details about my skills, interests, and notable projects.Pursuing MCA (Masters in Computer Application) from D.Y. Patil Agricultural and Technical University, Talsande, Kolhapur. Passionate about TrendingTech Skills. 
 
 ## 🚀 Skills & Technologies which i am lerning 
-- **Languages**:Python, JavaScript, MySQL
-- **Frameworks**: React
+- **Languages**:Python, JavaScript, HTML5, Css(Bootstrap,Tailwind), MySQL.
+- **Frameworks**: React.js
 - **Tools & Platforms**: Git, GitHub.
 - **Databases**: MySQL, MongoDB
 
