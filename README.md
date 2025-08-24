@@ -31,6 +31,7 @@ I am passionate about coding and exploring new technologies. Check out my reposi
 -->
 
 ## 🌱 Currently Learning
+- MERN STACK
 - Python
 - Cloud Computing (AWS)
 - Data Science/Analysis
