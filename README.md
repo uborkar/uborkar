@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about coding and learning new techn
 
 ## 🚀 Skills & Technologies which i am lerning 
 - **Languages**:Python, JavaScript, HTML5, Css(Bootstrap,Tailwind), MySQL.
-- **Frameworks**: React.js
+- **Frameworks**: React.js, Node.js
 - **Tools & Platforms**: Git, GitHub.
 - **Databases**: MySQL, MongoDB
 
