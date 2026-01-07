@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Hey, I'm *Umair Mazhar Borkar* 👋
 
-Welcome to my GitHub profile! I'm passionate about coding and learning new technologies. Currently focusing on Java development during my internship at Codsoft. Below you'll find details about my skills, interests, and notable projects.Pursuing MCA (Masters in Computer Application) from D.Y. Patil Agricultural and Technical University, Talsande, Kolhapur. Passionate about TrendingTech Skills. 
+Welcome to my GitHub profile! I'm passionate about coding and learning new technologies. Currently focusing on Web development during my internship at Infoyashonand Technology PVT ltd, Sangli. Below you'll find details about my skills, interests, and notable projects.Pursuing MCA (Masters in Computer Application) from D.Y. Patil Agricultural and Technical University, Talsande, Kolhapur. Passionate about TrendingTech Skills. 
 
 ## 🚀 Skills & Technologies which i am lerning 
 - **Languages**:Python, JavaScript, HTML5, Css(Bootstrap,Tailwind), MySQL.
