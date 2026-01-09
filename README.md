@@ -15,8 +15,7 @@ Welcome to my GitHub profile! I'm passionate about coding and learning new techn
 
 
 ## 📊 GitHub Stats
-![Umair Borkar GitHub Stats](https://github-readme-stats.vercel.app/api?username=uborkar&show_icons=true&count_private=true&hide=prs&theme=radical)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uborkar&layout=compact&theme=radical)](https://github.com/uborkar)
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=uborkar&theme=react-dark)
 
 
