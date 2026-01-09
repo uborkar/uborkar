@@ -34,9 +34,10 @@ I am passionate about coding and exploring new technologies. Check out my reposi
 - MERN STACK
 - Python
 - linux
-- Cloud Computing 
+- Cloud Computing (Aws , Azure)
 - Data Science/Analysis
 - DevOps
+- 
 
 ### 🛠️ My Tech Stack:
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
