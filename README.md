@@ -31,7 +31,7 @@ I am passionate about coding and exploring new technologies. Check out my reposi
 - Cloud Computing (Aws , Azure)
 - Data Science/Analysis
 - DevOps
-- 
+  
 
 ### 🛠️ My Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
