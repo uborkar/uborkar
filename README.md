@@ -29,6 +29,7 @@ I am passionate about coding and exploring new technologies. Check out my reposi
 - Cloud Computing (Aws , Azure)
 - Data Science/Analysis
 - DevOps
+- Cyber Security
   
 
 ### 🛠️ My Tech Stack:
